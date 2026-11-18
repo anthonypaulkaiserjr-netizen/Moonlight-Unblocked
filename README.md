@@ -1,7 +1,7 @@
 # Moonlight-Unblocked
 
 SIMPLE EXPLANATION
-This calls the Cloudflare service to be installed and puts Moonlight Web on your computer. You need to install Sunshine first.
+This calls the Cloudflare service to be installed and puts Moonlight Web on your computer. You need to install Sunshine first, the script calls the installer.
 
 INSTALL
 1: Install the executable.
